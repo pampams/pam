@@ -10,3 +10,8 @@ Referensi
 [    https://www.androidhive.info/2015/09/android-material-design-working-with-tabs/](https://www.androidhive.info/2015/09/android-material-design-working-with-tabs/ "tabs")
 
 [https://www.androidhive.info/2015/04/android-getting-started-with-material-design/](https://www.androidhive.info/2015/04/android-getting-started-with-material-design/)
+
+
+![](https://github.com/pampams/pam/blob/master/1.Loadingimg.png)
+
+![](https://github.com/pampams/pam/blob/master/2.Discoverimg.png)
