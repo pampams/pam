@@ -15,3 +15,10 @@ Referensi
 ![](https://github.com/pampams/pam/blob/master/1.Loadingimg.png)
 
 ![](https://github.com/pampams/pam/blob/master/2.Discoverimg.png)
+
+
+Color Orage  : #FD9727
+Color Orange Tua : #FF8C0D
+
+Color Grey : #808080
+Hitam : #000000
